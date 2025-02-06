@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background-color: #c66053;
+  background-image: linear-gradient(to bottom right, rgb(248, 9, 200), rgb(238, 238, 208));
 }
 
 .container {
